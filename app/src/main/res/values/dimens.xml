@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="small_padding">6dp</dimen>
+    <dimen name="big_padding">16dp</dimen>
+    <dimen name="question_size">18sp</dimen>
+    <dimen name="text_size">16sp</dimen>
+</resources>
